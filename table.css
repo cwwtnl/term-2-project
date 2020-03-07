@@ -1,0 +1,139 @@
+<title>Tables</title>
+
+	<style>
+
+
+
+		body {
+
+			background-color:      #459DA1;
+
+
+			background-repeat:     no-repeat;
+
+			background-size:       cover;
+
+			background-attachment: fixed;
+
+			background-position: center;
+
+		}
+
+
+
+		div {
+
+			background-color: white;
+
+			border:			  		1px solid black;
+
+			box-shadow:		 	  -20 px 20px 40px black;
+
+			padding: 		  		20px;
+
+			position:         absolute;
+
+			
+
+			top:              px;
+
+			width:            660px;
+
+		}
+
+
+
+		table, th, td {
+
+			border: 2px solid black;
+
+			border-bottom: 2px solid black;
+
+			border-collapse: collapse;
+
+		}
+
+
+
+
+
+		th,td {
+
+			text-align: center;
+
+			padding: 10px;
+
+		}
+
+
+
+		table {
+
+			border-collapse:  collapse;
+
+			width: 400px;
+
+		}
+
+
+
+		tr:nth-child(even)	{
+
+			background-color:  #EEE;
+
+
+
+		}
+
+
+
+		tr:nth-child(odd)	{
+
+				background-color:  #DDD;
+
+		}
+
+
+
+		td:hover {
+
+				background-color: #047A4A;
+
+				color: white;
+
+		}
+
+
+
+		th{
+
+			background-color: blue;
+
+			color: 						white;
+
+		}
+
+
+
+
+
+
+
+	</style>
+
+
+
+</head>
+
+
+
+<body>
+
+
+
+	<div>
+
+
+
+
+<table>

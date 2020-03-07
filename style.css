@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<a href="https://www.colourlovers.com/palette/3533993/Candy_Bear_Crush?widths=1" target="_blank"><img src="https://www.colourlovers.com/images/badges/pw/3533/3533993_Candy_Bear_Crush.png" style="width: 240px; height: 120px; border: 0 none;" alt="Candy_Bear_Crush" /></a><br /><span style="font-size: 10px; color: #5e5e5e;"><a href="//www.colourlovers.com/color" target="_blank" style="font-size: 10px; color: #5e5e5e;">Color</a> by <a href="//www.colourlovers.com/" target="_blank" style="font-size: 10px; color: #5e5e5e;">COLOURlovers</a></span>
+<html>
+<head>
+<style>
+body {
+background-color: #FA629B;
+font-family: 'Roboto', ;
+}
+
+.container {
+width: 700px;
+background-color: ;
+border: 10px solid #000;
+margin-left: auto;
+margin-right: auto;
+height: 700px;
+}
+
+.content {
+width: 660px;
+padding: 20px;
+}
+
+p { 
+line-height: 1.5em;
+font-size: 14pt;
+}
+
+img {
+float: left;
+margin-right: 20px;
+margin-bottom: 5px;
+}
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333;
+}
+
+li {
+float: left;
+width: 175px;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a.ex1:hover {
+background-color: #111;
+}
+li a.ex1:hover{
+
+}
+.current {
+background-color: #FA629B;
+}
+<link rel="stylesheet" type="text/css" href="style.css">
+</style>
+</head>
